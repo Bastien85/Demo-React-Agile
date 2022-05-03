@@ -3,6 +3,10 @@
 
 Dans le répertoire principale vous pouvez lancer :
 
+### `npm install`
+
+Installe les dépendances et permet de lancer le projet.
+
 ### `npm start`
 
 Lance l'application en mode développement.\
