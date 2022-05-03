@@ -17,6 +17,19 @@ Ouvrez [http://localhost:3000](http://localhost:3000) pour le voir dans le navig
 ### `npm test`
 
 Lances les tests unitaires.
+## Architecture du projet
+
+### Dossier src/features
+
+Contient les composants rangés dans leurs dossiers respectifs avec leur fichier de test et de style.
+
+### Dossier src/models
+
+Contient les différents modèles utiles à l'application.
+
+### Dossier src/pages
+
+Contient les différentes pages utiles à l'application.
 
 ## Détails
 
